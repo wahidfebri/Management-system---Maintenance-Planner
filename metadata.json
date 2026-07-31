@@ -1,0 +1,6 @@
+{
+  "name": "Maintenance Planner & Reliability Management System",
+  "description": "CMMS & Reliability Management System with automated KPI calculation (PA, UA, MA, MTBF, MTTR, PM Compliance), Asset Tracking, Work Orders, Spare Parts, RCA, and Cost Management for Heavy Equipment, Mining & Manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
